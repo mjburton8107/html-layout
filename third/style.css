@@ -1,0 +1,32 @@
+header{
+  background-color: #bdbdbd;
+  height: 130px;
+}
+
+footer{
+  background-color: #ffe424;
+  height: 130px;
+}
+.first-div{
+  background-color: #bdbdbd;
+  height: 200px;
+  margin-top:200px;
+}
+
+.second-div{
+  background-color: white;
+  height: 100px;
+  margin-top: 100px;
+  text-align: left;
+  padding: 30px;
+}
+
+.third-div{
+  background-color: #43c370;
+  height: 300px;
+}
+
+.fourth-div{
+  background-color: #9dff00;
+  height: 600px;
+}
