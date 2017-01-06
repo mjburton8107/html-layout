@@ -1,0 +1,30 @@
+header{
+  background-color: rgb(37, 34, 34);
+  height: 100px;
+}
+
+.left-box{
+  background-color: #e2d8d8;
+  height: 600px;
+  width: 10%;
+  float: left;
+}
+
+.right-box{
+  background-color: #e2d8d8;
+  height: 600px;
+  width: 10%;
+  float: right;
+}
+
+.middle-box{
+  background-color: white;
+  height: 250px;
+  width: 75%;
+}
+
+footer{
+  background-color: black;
+  height: 100px;
+  margin-top: 250px;
+}
