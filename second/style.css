@@ -1,0 +1,40 @@
+body{
+  background-color: #43c370;
+}
+
+.left-box{
+  background-color: #0061af;
+  margin:0;
+  float: left;
+  width: 33%;
+  height: 800px;
+}
+
+.middle-box{
+  background-color: green;
+  margin:0;
+  align: center;
+  width: 33%;
+    height: 800px;
+}
+
+.right-top{
+  background-color: red;
+  margin:0;
+  float: right;
+  width: 33%;
+    height: 800px;
+}
+
+.right-bottom{
+ background-color: #9dff00;
+ height: 600px;
+ align: right-bottom;
+
+}
+
+.text{
+  text-align: center;
+  margin-top:100px;
+  color: white;
+}
